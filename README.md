@@ -1,4 +1,4 @@
-A transaction extension function for the Ezposed framworok, with the option to specify the schema to be used.
+A transaction extension function for the Exposed framework, with the option to specify the schema to be used.
 The previous schema (if any) is respored after the transaction completes.
 
 
